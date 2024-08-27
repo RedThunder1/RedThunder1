@@ -1,5 +1,5 @@
 Hello, I am RedThunderSpartan!
-Currently all i work on is minecraft plugins for my servers but i may work on other stuff in the future.
+Welcome to my GitHub. Here is just various projects I work on like MC plugins and other things.
 
 <!---
 RedThunder1/RedThunder1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
